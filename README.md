@@ -9,5 +9,5 @@ Computer Science student at [UTFPR Campo Mourão](https://www.instagram.com/utfp
 <div>
   <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/Python?style=social&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=python">
 </div>
