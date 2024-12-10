@@ -6,6 +6,4 @@ Computer Science student at [UTFPR Campo Mourão](https://www.instagram.com/utfp
 </div>
 
 ## Languages & Technologies
-<div>
-  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python>
-</div>
+<div><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python></div>
